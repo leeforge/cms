@@ -1,3 +1,7 @@
 [submodule "admin"]
 	path = admin
 	url = https://github.com/leeforge/web.git
+
+[submodule "server"]
+	path = server
+	url = https://github.com/leeforge/templates.git
